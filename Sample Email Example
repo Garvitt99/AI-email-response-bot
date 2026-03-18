@@ -1,0 +1,16 @@
+## Example Input
+
+Email:
+"Let’s meet tomorrow
+Let me know if you are available"
+
+## Bot Response
+
+"Hi,
+
+Thanks for reaching out. I’m available tomorrow after 1:00 PM. Please let me know what time works for you and where you’d like to meet.
+
+Best regards,
+Garvit Raj"
+
+It automatically make time accordinfg to my daily schedule 
